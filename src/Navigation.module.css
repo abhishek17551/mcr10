@@ -1,0 +1,9 @@
+.navigation {
+  background-color: black;
+  color: white;
+  padding: 2rem;
+  height: 100vw;
+}
+.navigation > a {
+  padding: 1rem;
+}
